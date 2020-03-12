@@ -1,0 +1,2 @@
+.App{min-height:100vh}.row.equal-cols{display:flex;flex-wrap:wrap}.row.equal-cols:after,.row.equal-cols:before{display:block}.row.equal-cols>[class*=col-]{display:flex;flex-direction:column}.row.equal-cols>[class*=col-]>*{flex:1 1 auto}
+/*# sourceMappingURL=main.9a390dc3.chunk.css.map */

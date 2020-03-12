@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bookself-app/static/css/main.9a390dc3.chunk.css",
+    "main.js": "/Bookself-app/static/js/main.b95d0238.chunk.js",
+    "main.js.map": "/Bookself-app/static/js/main.b95d0238.chunk.js.map",
+    "runtime-main.js": "/Bookself-app/static/js/runtime-main.6180b29c.js",
+    "runtime-main.js.map": "/Bookself-app/static/js/runtime-main.6180b29c.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Bookself-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f103947f.chunk.js": "/Bookself-app/static/js/2.f103947f.chunk.js",
+    "static/js/2.f103947f.chunk.js.map": "/Bookself-app/static/js/2.f103947f.chunk.js.map",
+    "index.html": "/Bookself-app/index.html",
+    "precache-manifest.6b2338368147187053268af553567f24.js": "/Bookself-app/precache-manifest.6b2338368147187053268af553567f24.js",
+    "service-worker.js": "/Bookself-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Bookself-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.9a390dc3.chunk.css.map": "/Bookself-app/static/css/main.9a390dc3.chunk.css.map",
+    "static/js/2.f103947f.chunk.js.LICENSE.txt": "/Bookself-app/static/js/2.f103947f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6180b29c.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f103947f.chunk.js",
+    "static/css/main.9a390dc3.chunk.css",
+    "static/js/main.b95d0238.chunk.js"
+  ]
+}
